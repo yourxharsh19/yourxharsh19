@@ -6,45 +6,41 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/harshdeepsingh-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/yourxharsh19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/dashboard">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="mailto:harshdeep.2k6@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/harshdeepsingh-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yourxharsh19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.codechef.com/dashboard"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="mailto:harshdeep.2k6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourxharsh19&label=Profile%20Views&color=a78bfa&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/yourxharsh19?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=github&logoColor=white&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=yourxharsh19&label=PROFILE%20VIEWS&color=a78bfa&style=for-the-badge" />
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%" width="100%"/>
+
 ## 🧭 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
 
-- 🎓 Final-year **B.Tech Computer Science** student at ABES Engineering College, Ghaziabad (Expected 2027) — GPA 8.0/10.0
-- 🛠️ Comfortable end-to-end across **Java/Spring Boot** and **React/TypeScript**, from system design through deployment
-- 🚀 Currently building **SwiftCart** — 5+ independently deployable microservices (Auth, Cart, Catalogue, Order, Payment, Inventory), with a ~40% query speed boost from indexed PostgreSQL schemas
-- 💸 Shipped **UPIQ** — a live budgeting app with **100+ users**, automated spend alerts, and 100% accurate statement parsing on 1,000+ transactions
-- 🤖 Built **Smart API Debugger** — an LLM-powered tool that turns raw API errors into plain-English fixes
-- 🧩 Grinding DSA daily — **1706 LeetCode contest rating**, 300+ problems solved, CodeChef 2★
-- ✍️ Write a technical blog on web development and system design
-- 🎯 Actively looking for **SWE Internship / Full-Stack Developer** roles — off-campus and campus recruitment
-- 📫 Open to interesting conversations, collabs, and opportunities — reach out anytime!
+```yaml
+name: "Harshdeep Singh"
+role: "Full Stack Developer (Java/Spring Boot + React)"
+education: "B.Tech CS @ ABES Engineering College — GPA 8.0/10.0 — 2027"
+currently_building: "SwiftCart — 5+ microservice e-commerce platform"
+shipped: "UPIQ — live finance app, 100+ real users"
+competitive_programming: "1706 LeetCode rating · 300+ problems · CodeChef 2★"
+looking_for: "SWE Internship / Full-Stack Developer role"
+fun_fact: "Writes about web dev & system design on the side"
+```
 
 <br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%" width="100%"/>
 
 ## 🧱 Tech Stack
 
@@ -54,18 +50,15 @@
 
 <br/><br/>
 
-**Languages**
-<br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-<br/><br/>
-
-**Frameworks & Libraries**
 <br/>
+
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
@@ -73,17 +66,10 @@
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=flat-square&logo=apache&logoColor=white" />
 
-<br/><br/>
-
-**Databases**
 <br/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -96,83 +82,72 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%" width="100%"/>
+
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [SwiftCart](https://github.com/yourxharsh19) — *In Progress, 2026*
+### 🛒 SwiftCart
+**`In Progress · 2026`**
+
 Microservices e-commerce platform with **5+ independently deployable services** — Auth, Cart, Catalogue, Order, Payment, Inventory. Indexed PostgreSQL schemas cut query response time by **~40%**. Fully Dockerized, with documented REST endpoints powering a TypeScript frontend.
 
-`Spring Boot` `PostgreSQL` `Docker` `TypeScript` `REST APIs`
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**[→ View Repo](https://github.com/yourxharsh19)**
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 [UPIQ](https://github.com/yourxharsh19) — *Live, 2025*
+### 💰 UPIQ
+**`Live · 2025`**
+
 A budgeting app **live with 100+ users**. Rule-based transaction categorization hits **100% accuracy** on Google Pay statements, with AI-assisted suggestions for others. Automated PDFBox parsing validated on 1,000+ transactions across 6 months.
 
-`React.js` `Spring Boot` `PostgreSQL` `Apache PDFBox`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**[→ View Repo](https://github.com/yourxharsh19)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Smart API Debugger — *2025*
+### 🧠 Smart API Debugger
+**`2025`**
+
 An LLM-powered dev tool that translates raw API errors and backend logs into clear, human-readable explanations — with fix suggestions surfaced alongside the error context.
 
-`Spring Boot` `OpenAI API` `REST APIs`
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**[→ View Repo](https://github.com/yourxharsh19)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 DSA Revision Series
+**`Ongoing`**
+
 A structured, daily revision series in Java covering core data structures and algorithms — consistent, disciplined placement prep.
 
-`Java` `DSA` `Problem Solving`
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**[→ View Repo](https://github.com/yourxharsh19)**
 
 </td>
 </tr>
 </table>
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourxharsh19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourxharsh19&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourxharsh19&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourxharsh19&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourxharsh19&theme=tokyo-night&hide_border=true)
-
-<br/>
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/yourxharsh19/yourxharsh19/output/github-contribution-grid-snake.svg" width="100%"/>
-<!--END_SECTION:snake-->
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%" width="100%"/>
 
 ## 🤝 Let's Connect
 
@@ -180,15 +155,9 @@ A structured, daily revision series in Java covering core data structures and al
 
 I'm always up for talking backend architecture, DSA, or the next project idea. If my work resonates with you, don't hesitate to reach out.
 
-<a href="https://linkedin.com/in/harshdeepsingh-dev">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/yourxharsh19">
-  <img src="https://img.shields.io/badge/Explore%20my%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:harshdeep.2k6@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/harshdeepsingh-dev"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yourxharsh19"><img src="https://img.shields.io/badge/Explore%20my%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:harshdeep.2k6@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
