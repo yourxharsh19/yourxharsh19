@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0f0c29,70:302b63,100:00f2fe&height=220&section=header&text=HARSHDEEP%20SINGH&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Architecting%20Scalable%20Microservices%20%26%20Cloud-Native%20Systems&descAlignY=58&descAlign=50&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0f0c29,70:302b63,100:00f2fe&height=220&section=header&text=HARSHDEEP%20SINGH&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Architecting%20Scalable%20Microservices%20%E2%80%A2%20Cloud-Native%20Systems&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 
 <br/>
 
