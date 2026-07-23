@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harshdeep%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend-Leaning%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Building+SwiftCart+%E2%80%94+5%2B+microservices+in+Docker;Shipped+UPIQ+%E2%80%94+live+finance+app%2C+100%2B+users;1706+LeetCode+rating+%7C+300%2B+problems+solved" alt="Typing SVG" />
+
+<br/>
+
 <a href="https://linkedin.com/in/harshdeepsingh-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -11,10 +15,16 @@
 <a href="https://leetcode.com/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+<a href="https://www.codechef.com/dashboard">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="mailto:harshdeep.2k6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Building+SwiftCart+%E2%80%94+a+microservices+e-commerce+platform;Shipped+UPIQ+%E2%80%94+a+live+finance+app+with+real+users;Solving+DSA+daily+%7C+1700%2B+on+LeetCode" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=yourxharsh19&label=Profile%20Views&color=a78bfa&style=for-the-badge" />
 
 </div>
 
@@ -25,13 +35,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
 
 - 🎓 Final-year **B.Tech Computer Science** student at ABES Engineering College, Ghaziabad (Expected 2027) — GPA 8.0/10.0
-- 🛠️ Core stack: **Java · Spring Boot · React.js · TypeScript · PostgreSQL · MySQL · Hibernate/JPA · Docker · REST APIs**
+- 🛠️ Comfortable end-to-end across **Java/Spring Boot** and **React/TypeScript**, from system design through deployment
 - 🚀 Currently building **SwiftCart** — 5+ independently deployable microservices (Auth, Cart, Catalogue, Order, Payment, Inventory), with a ~40% query speed boost from indexed PostgreSQL schemas
 - 💸 Shipped **UPIQ** — a live budgeting app with **100+ users**, automated spend alerts, and 100% accurate statement parsing on 1,000+ transactions
 - 🤖 Built **Smart API Debugger** — an LLM-powered tool that turns raw API errors into plain-English fixes
 - 🧩 Grinding DSA daily — **1706 LeetCode contest rating**, 300+ problems solved, CodeChef 2★
 - ✍️ Write a technical blog on web development and system design
-- 🎯 Actively looking for **SWE internship / Full-Stack Developer** roles — off-campus and campus recruitment
+- 🎯 Actively looking for **SWE Internship / Full-Stack Developer** roles — off-campus and campus recruitment
 - 📫 Open to interesting conversations, collabs, and opportunities — reach out anytime!
 
 <br clear="right"/>
@@ -40,7 +50,47 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,postgres,mysql,hibernate,docker,git,github,postman,vscode,idea,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,postgres,mysql,docker,git,github,postman,vscode,idea&theme=dark" />
+
+<br/><br/>
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+**Frameworks & Libraries**
+<br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=flat-square&logo=apache&logoColor=white" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 
 </div>
 
@@ -102,9 +152,25 @@ A structured, daily revision series in Java covering core data structures and al
 
 </div>
 
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourxharsh19&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+## 📈 Contribution Graph
+
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourxharsh19&theme=tokyo-night&hide_border=true)
+
+<br/>
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/yourxharsh19/yourxharsh19/output/github-contribution-grid-snake.svg" width="100%"/>
+<!--END_SECTION:snake-->
 
 </div>
 
@@ -119,6 +185,9 @@ I'm always up for talking backend architecture, DSA, or the next project idea. I
 </a>
 <a href="https://github.com/yourxharsh19">
   <img src="https://img.shields.io/badge/Explore%20my%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:harshdeep.2k6@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
